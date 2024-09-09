@@ -1,2 +1,2 @@
 # aws-ec2-terraform
-erraform-iacdevops-with-aws-codepipeline
+Terraform-iacdevops-with-aws-codepipeline
